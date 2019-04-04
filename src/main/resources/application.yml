@@ -1,0 +1,6 @@
+server:
+  port: 9201
+
+logging:
+  level:
+    com.zybank.write: debug
