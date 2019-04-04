@@ -9,4 +9,4 @@ remote_write:
   - url: "http://127.0.0.1:9201/write"
 ``` 
 
-run this application,than you can gei what prometheus get message !
+run this application,then you can gei what prometheus get message !
