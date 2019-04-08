@@ -3,4 +3,7 @@ server:
 
 logging:
   level:
-    com.zybank.write: debug
+    com.haha.write: debug
+
+prometheus:
+  version: 2.6.0

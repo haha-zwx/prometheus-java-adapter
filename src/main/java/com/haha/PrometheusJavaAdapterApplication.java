@@ -2,6 +2,7 @@ package com.haha;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+
 /**
  *
  * @escription： Prometheus-remote_write_server启动类

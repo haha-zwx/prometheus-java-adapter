@@ -12,6 +12,7 @@
     <artifactId>prometheus-java-adapter</artifactId>
     <version>0.0.1</version>
     <name>prometheus-java-adapter</name>
+    <packaging>jar</packaging>
 
     <properties>
         <java.version>1.8</java.version>
