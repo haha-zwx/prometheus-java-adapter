@@ -14,8 +14,8 @@ public class ProtocolAdapter {
 
     /**
      * @description: exec prometheus req data dependency prometheus version
-     * @param byte[] data:prometheus req data
-     * @param String version:prometheus version
+     * @param  data:prometheus req data
+     * @param  version:prometheus version
      * @return byte[]
      * @create by: haha  time: 2019/4/8 10:37
      */
